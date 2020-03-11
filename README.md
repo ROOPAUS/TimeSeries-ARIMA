@@ -1,1 +1,1 @@
-# TimeSeries-ARIMA
+# Time Series-ARIMA
